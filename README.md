@@ -1,5 +1,5 @@
 # EXPLORE
 
-<img width="468" height="107" alt="image-2" src="https://github.com/user-attachments/assets/7828f149-94ea-429b-af64-9da35e9e8d71" />
+<img width="1440" height="319" alt="Screenshot 2025-07-11 at 12 31 18" src="https://github.com/user-attachments/assets/af7c5e8a-9e14-454d-a6a4-61bf0df8b202" />
 
 You can find more about the process here: https://imsalma.notion.site/EXPLORE-17f8c862426181e1bfb3e13c51f7ad65?source=copy_link
